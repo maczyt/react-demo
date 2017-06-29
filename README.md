@@ -1,7 +1,7 @@
 # React Demo
 
 ``` bash
-1. cd server && node index.js
+1. cd server && npm i && node index.js
 2. cd ../ && npm start
 ```
 
