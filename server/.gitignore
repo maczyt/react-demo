@@ -1,0 +1,3 @@
+*.log
+# dependencies
+node_modules/

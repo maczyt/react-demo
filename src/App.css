@@ -1,0 +1,23 @@
+.nav {
+  padding: .1rem; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+body {
+  background-size: cover; }
+
+.nav-title {
+  display: flex;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  font-size: .2rem; }
+  .nav-title > div {
+    width: 50%;
+    height: .5rem;
+    line-height: .5rem;
+    text-align: center; }
+    .nav-title > div.active {
+      color: #f03; }

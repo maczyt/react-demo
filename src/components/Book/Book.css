@@ -1,0 +1,11 @@
+.card .card-cover {
+  width: auto !important;
+  max-width: 80%;
+  margin: 1rem auto 0 !important; }
+
+.card .card-footer {
+  display: flex;
+  justify-content: center; }
+
+.card .card-content {
+  text-align: center !important; }
